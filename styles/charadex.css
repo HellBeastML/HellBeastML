@@ -21,7 +21,7 @@ body {
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color:                  #e3b5b5;
+  --cd-secondary-color:                  #d59090;
   --cd-secondary-text-color:             #fff;
 
   /* ============================================================= */
@@ -53,7 +53,7 @@ body {
   ================================================================ */
   --cd-navbar-background-color:          #c76b6b;
   --cd-navbar-brand-color:               var(--cd-primary-color);
-  --cd-navbar-brand-color-hover:         var(--cd-secondary-color);
+  --cd-navbar-brand-color-hover:         #dca3a3;
   --cd-navbar-text-color:                var(--cd-content-background-color);
   --cd-navbar-link-color:                var(--cd-navbar-text-colour);
   --cd-navbar-link-color-hover:          var(--cd-primary-color);
